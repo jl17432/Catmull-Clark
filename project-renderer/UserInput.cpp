@@ -1,6 +1,12 @@
-// Include GLFW
+/*
+*	The code in this file was been modified based on the code comes from
+*	OpenGL Tutorial, original source code can be found at:
+*	https://github.com/opengl-tutorials/ogl/blob/master/common/controls.cpp
+*
+*	The owner of the site who wrote the tutorial owns the copy right to this code
+*/
+
 #include <GLFW/glfw3.h>
-//extern GLFWwindow* window; 
 
 #include <glm/gtc/matrix_transform.hpp>
 using namespace glm;
